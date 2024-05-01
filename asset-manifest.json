@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/austinemark001/weatherApp/static/css/main.500cadca.css",
-    "main.js": "/austinemark001/weatherApp/static/js/main.3d97117d.js",
-    "static/media/background_small.jpg": "/austinemark001/weatherApp/static/media/background_small.253ad598506e6f350ea9.jpg",
-    "static/media/background.jpg": "/austinemark001/weatherApp/static/media/background.00e65443e2594d816c5e.jpg",
-    "index.html": "/austinemark001/weatherApp/index.html",
-    "main.500cadca.css.map": "/austinemark001/weatherApp/static/css/main.500cadca.css.map",
-    "main.3d97117d.js.map": "/austinemark001/weatherApp/static/js/main.3d97117d.js.map"
+    "main.css": "/react-gh-pages/static/css/main.4c44ac28.css",
+    "main.js": "/react-gh-pages/static/js/main.69cb5051.js",
+    "static/media/background_small.jpg": "/react-gh-pages/static/media/background_small.253ad598506e6f350ea9.jpg",
+    "static/media/background.jpg": "/react-gh-pages/static/media/background.00e65443e2594d816c5e.jpg",
+    "index.html": "/react-gh-pages/index.html",
+    "main.4c44ac28.css.map": "/react-gh-pages/static/css/main.4c44ac28.css.map",
+    "main.69cb5051.js.map": "/react-gh-pages/static/js/main.69cb5051.js.map"
   },
   "entrypoints": [
-    "static/css/main.500cadca.css",
-    "static/js/main.3d97117d.js"
+    "static/css/main.4c44ac28.css",
+    "static/js/main.69cb5051.js"
   ]
 }
